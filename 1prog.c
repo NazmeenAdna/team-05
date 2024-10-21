@@ -2,5 +2,6 @@
 void main()
 {
 printf("WELCOME TO GITLAB");
-printf("HII");
-}
+
+printf("BYE");
+i m adding new line on monday}
