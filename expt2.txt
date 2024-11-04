@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hello world
 
+=======
+Hello world
+>>>>>>> 9e8b320 (commit)
 
 
